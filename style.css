@@ -7,7 +7,7 @@ h1 {
     text-transform: capitalize;
 }
 .tree {
-    background-color: grey;
+    background-color: rgb(201, 200, 200);
     display: flex;
     justify-content: center;
     
@@ -21,7 +21,6 @@ h1 {
 }
 .photo-header {
     display: flex;
-    border: double;
 }
 .descripcion {
     float: left;
